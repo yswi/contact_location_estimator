@@ -11,6 +11,8 @@
 
 # General info
 Given a pointcloud in [m] scale and the wrench(contact force), find a single point that is most likely to be a contact location.
+![method](figures/contact_loc_est_method.png)
+
 
 # Installation
 ```
@@ -54,6 +56,5 @@ Example:
 
 # How to use
 
-# Methods
-![method](figures/contact_loc_est_method.png)
+
 
