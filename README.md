@@ -33,7 +33,7 @@ Create a data folder in your directory
 $ mkdir pointcloud
 $ mkdir wrench
 ```
-Feel free to design the data directory according to your need. Again, the data files(.ply) are returned from the object frame containing mild calibration error.
+Feel free to design the data directory according to your need. Again, the data files(.ply) should be returned from the object frame.
 
 Example: 
 ```
